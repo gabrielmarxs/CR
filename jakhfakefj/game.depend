@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1433965696 source:/home/gabriel/Documentos/projetos/game/main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+
